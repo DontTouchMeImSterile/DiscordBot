@@ -45,6 +45,7 @@ namespace DiscordBot
 				"mem/sasuke_patrick.jpg"
 
 				};
+
 			commands.CreateCommand("show me what you got")
 				.Do(async (e) =>
 				{
